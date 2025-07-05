@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Coursera",
+  "version": "1.0",
+  "author": "Rahil Khan",
+  "version_name": "1.0",
+  "description": "Complete coursera courses in just one click. Now no need to waste your valuable time in watching those nonsense videos and attempting quiz",
+  "permissions": ["storage", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+      "128": "images/128.png",
+      "16": "images/16.png",
+      "48": "images/48.png",
+      "32": "images/32.png"
+   },
+  "background": {
+    "service_worker": "background.js"
+  },
+"content_scripts": [
+    {
+      "run_at": "document_end",
+      "matches": ["*://*.coursera.org/learn*"],
+      "js": ["content.js"]
+    },
+    {
+      "run_at" : "document_start",
+      "matches": ["*://*.coursera.org/learn*"],
+      "js": ["interceptor.js"],
+      "world" : "MAIN"
+    }
+  ],
+  "host_permissions": ["*://*.coursera.org/*"]
+}
