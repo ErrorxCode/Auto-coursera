@@ -30,7 +30,7 @@
 - **Custom API key** - Allows to use your own gemini API key
 
 
-<a href="https://github.com/ErrorxCode/FkNeo/releases/download/1.0/AutoCoursera-v1.0.zip"><img alt="Download extention" height=40 src="https://github.com/ErrorxCode/FkNeo/blob/main/button.png"></a>
+<a href="https://github.com/ErrorxCode/AutoCoursera-v1.0.zip/releases/download/1.0/AutoCoursera-v1.0.zip"><img alt="Download extention" height=40 src="https://github.com/ErrorxCode/FkNeo/blob/main/button.png"></a>
 
 ![Github All Releases](https://img.shields.io/github/downloads/ErrorxCode/Auto-coursera/total?label=Downloads&logo=download)
 
