@@ -27,10 +27,11 @@
 - **Bypass readings** - Mark all the reading material as done.
 - **Auto Quiz** - Automatically attempt quiz
 - **AI Answers** - Solve all the quiz questions using AI
+- **Gemini support** - Uses Gemini models to solve quiz.
 - **Custom API key** - Allows to use your own gemini API key
 
 
-<a href="https://github.com/ErrorxCode/Auto-coursera/releases/download/1.0/AutoCoursera-v1.0.zip"><img alt="Download extensions" height=40 src="https://github.com/ErrorxCode/FkNeo/blob/main/button.png"></a>
+<a href="https://github.com/ErrorxCode/Auto-coursera/releases/download/1.0/AutoCoursera-v1.2.zip"><img alt="Download extensions" height=40 src="https://github.com/ErrorxCode/FkNeo/blob/main/button.png"></a>
 
 ![Github All Releases](https://img.shields.io/github/downloads/ErrorxCode/Auto-coursera/total?label=Downloads&logo=download)
 
