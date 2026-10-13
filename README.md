@@ -22,16 +22,16 @@
 
 ## ✨ Main Features
 
-- **Bypass lectures** - Mark all the video lectures as done.
-- **Bypass discussions** - Mark all discussions as done.
+- **Bypass lectures** - Mark all the video lectures as done (May not work on new courses)
+- **Bypass discussions** - Mark all discussions as done. 
 - **Bypass readings** - Mark all the reading material as done.
-- **Auto Quiz** - Automatically attempt quiz
+- **Auto Quiz** - Automatically attempt quiz (Using Gemini)
 - **AI Answers** - Solve all the quiz questions using AI
 - **Gemini support** - Uses Gemini models to solve quiz.
 - **Custom API key** - Allows to use your own gemini API key
 
 
-<a href="https://github.com/ErrorxCode/Auto-coursera/releases/download/1.0/AutoCoursera-v1.2.zip"><img alt="Download extensions" height=40 src="https://github.com/ErrorxCode/FkNeo/blob/main/button.png"></a>
+<a href="https://github.com/ErrorxCode/Auto-coursera/releases/download/1.3/AutoCoursera-v1.3.zip"><img alt="Download extensions" height=40 src="https://github.com/ErrorxCode/FkNeo/blob/main/button.png"></a>
 
 ![Github All Releases](https://img.shields.io/github/downloads/ErrorxCode/Auto-coursera/total?label=Downloads&logo=download)
 
@@ -45,7 +45,8 @@
 > [!NOTE]
 > The Auto Quiz/AI answers require you to enter Gemini API key. Get a key by clicking [here](https://aistudio.google.com/apikey)
 
-![image](https://github.com/user-attachments/assets/645db172-ff44-4a01-a436-1218a5dc1974)
+<img width="427" height="754" alt="image" src="https://github.com/user-attachments/assets/968f18b0-f767-4213-96c2-3608cae2cac1" />
+
 
 ## 🧑‍💻 Usage
 When on the course page, where all the modules are shown in the left sidebar. Click 'Bypass course' and wait for the extension to complete the course. After that, reload the page.
